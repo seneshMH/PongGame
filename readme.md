@@ -1,6 +1,6 @@
 <h1>Pong game made with RayLib</h1>
 
-<h2>Getting Started<h2>
+<h2>Getting Started</h2>
 
 <ins>**1. Downloading the repository:**</ins>
 Start by cloning the repository with
